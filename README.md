@@ -1,2 +1,2 @@
 # ecommerce-website
-I created static ecommerce website using HTML,CSS
+ Static E-commerce website using simple HTML & CSS
